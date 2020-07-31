@@ -11,5 +11,5 @@ class name in the Main Class field. Alternatively, you can manually type the
 class name in the manifest Main-Class element.
 
 /** 
- updated
+ update
 **/
